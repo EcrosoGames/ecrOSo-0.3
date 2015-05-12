@@ -1,0 +1,11 @@
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\bin\Debug\ecrOSo.exe
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\bin\Debug\ecrOSo.pdb
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\bin\Debug\ecrOSo.xml
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.Form1.resources
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.Resources.resources
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.vbproj.GenerateResource.Cache
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.exe
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.xml
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.pdb
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.Settings.resources
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo\ecrOSo\obj\x86\Debug\ecrOSo.StartMenu.resources
