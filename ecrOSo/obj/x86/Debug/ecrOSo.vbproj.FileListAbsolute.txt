@@ -20,3 +20,4 @@ K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo - Copy\ecrOSo-0.3\ecrOSo\ob
 K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo - Copy\ecrOSo-0.3\ecrOSo\bin\Debug\ecrOSo.exe
 K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo - Copy\ecrOSo-0.3\ecrOSo\bin\Debug\ecrOSo.pdb
 K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo - Copy\ecrOSo-0.3\ecrOSo\bin\Debug\ecrOSo.xml
+K:\source_codes\2015\EG2DVBv4.1\Test Projects\ecrOSo - Copy\ecrOSo-0.3\ecrOSo\obj\x86\Debug\ecrOSo.IT_Tools.resources

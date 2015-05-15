@@ -16,9 +16,11 @@
             StartMenu.BackColor = C
             Me.BackColor = C
             Form1.MenuStrip1.BackColor = C
+            IT_Tools.BackColor = C
         ElseIf w = 1 Then
             Form1.MenuStrip1.ForeColor = C
             StartMenu.ForeColor = C
+            IT_Tools.ForeColor = C
             Me.ForeColor = C
         ElseIf w = 2 Then
             Form1.Main(L)

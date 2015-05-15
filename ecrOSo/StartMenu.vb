@@ -11,4 +11,7 @@
     Private Sub btnDocuments_Click(sender As System.Object, e As System.EventArgs) Handles btnDocuments.Click
         Process.Start("explorer")
     End Sub
+    Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles btnITTools.Click
+        IT_Tools.Show()
+    End Sub
 End Class
