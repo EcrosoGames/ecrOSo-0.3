@@ -23,22 +23,30 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
-        Me.StartToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TIMEToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.StartToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
         Me.MenuStrip1.BackColor = System.Drawing.Color.PaleTurquoise
+        Me.MenuStrip1.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.StartToolStripMenuItem, Me.TIMEToolStripMenuItem})
         Me.MenuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(0)
+        Me.MenuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.System
         Me.MenuStrip1.Size = New System.Drawing.Size(1221, 39)
         Me.MenuStrip1.TabIndex = 1
         Me.MenuStrip1.Text = "MenuStrip1"
+        '
+        'TIMEToolStripMenuItem
+        '
+        Me.TIMEToolStripMenuItem.Name = "TIMEToolStripMenuItem"
+        Me.TIMEToolStripMenuItem.Size = New System.Drawing.Size(60, 39)
+        Me.TIMEToolStripMenuItem.Text = "TIME"
         '
         'StartToolStripMenuItem
         '
@@ -46,12 +54,6 @@ Partial Class Form1
         Me.StartToolStripMenuItem.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None
         Me.StartToolStripMenuItem.Name = "StartToolStripMenuItem"
         Me.StartToolStripMenuItem.Size = New System.Drawing.Size(47, 39)
-        '
-        'TIMEToolStripMenuItem
-        '
-        Me.TIMEToolStripMenuItem.Name = "TIMEToolStripMenuItem"
-        Me.TIMEToolStripMenuItem.Size = New System.Drawing.Size(46, 39)
-        Me.TIMEToolStripMenuItem.Text = "TIME"
         '
         'Form1
         '
