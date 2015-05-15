@@ -1,6 +1,5 @@
 ﻿Public Class StartMenu
     Private Sub btnExit_Click(sender As System.Object, e As System.EventArgs) Handles btnExit.Click
-        Form1.Fuckyou()
     End Sub
     Private Sub btnSettings_Click(sender As System.Object, e As System.EventArgs) Handles btnSettings.Click
         Settings.Show()
